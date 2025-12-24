@@ -29,11 +29,15 @@ I enjoy turning messy real-world datasets into clean, production-ready ML soluti
 
 ## 🛠️ Tech Stack
 
-Languages: Python, SQL
-ML & DS: Scikit-learn, Pandas, NumPy, Statistics, EDA, SMOTE, Model Evaluation
-Deep Learning / NLP: TensorFlow, Keras, NLTK
-Visualization: Tableau, Power BI, Excel, Matplotlib, Seaborn
-Tools: VS Code, Jupyter Notebook, Kaggle
+Languages: Python, SQL.
+
+ML & DS: Scikit-learn, Pandas, NumPy, Statistics, EDA, SMOTE, Model Evaluation.
+
+Deep Learning / NLP: TensorFlow, Keras, NLTK.
+
+Visualization: Tableau, Power BI, Excel, Matplotlib, Seaborn.
+
+Tools: VS Code, Jupyter Notebook, Kaggle.
 
 ## 📌 Featured Projects
 
