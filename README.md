@@ -14,9 +14,7 @@ manojkuruba9702@gmail.com
 ### 💼 LinkedIn: 
 https://linkedin.com/in/brmanoj/
 
-😄 Pronouns: He / Him
-
-### ⚡ Fun fact: 
+## ⚡ Fun fact: 
 I enjoy turning messy real-world datasets into clean, production-ready ML solutions—and I’ve captained winning sports teams too 🏏
 
 ## 🧠 About Me
